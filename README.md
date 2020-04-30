@@ -1,4 +1,4 @@
-# arduino
+# Basics Of IOT - Arduino
 
 Repository hosting my arduino experiences
 
